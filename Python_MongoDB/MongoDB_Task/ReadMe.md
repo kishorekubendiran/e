@@ -1,7 +1,9 @@
 # MongoDB Task<br>
 <br>
+
 MongoDB Task consist of aggregation function implementation, I'm not yet become master in MongoDB 😅, i have learned and implmented aggregation functions in python.
 <br>
+
 ### Questions:<br>
 1. Find the student name who scored maximum scores in all (exam, quiz and homework)?<br>
 2. Find students who scored below average in the exam and pass mark is 40%?<br>
@@ -11,6 +13,7 @@ MongoDB Task consist of aggregation function implementation, I'm not yet become 
 6. Create a new collection which consists of students who scored below the fail mark in all the categories.<br>
 7.  Create a new collection which consists of students who scored above pass mark in all the categories.<br>
 <br>
+
 # Phone Book Task
 <br>
 It's a simple Phonebook python code implementation
