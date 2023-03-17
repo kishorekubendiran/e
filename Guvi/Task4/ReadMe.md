@@ -1,1 +1,0 @@
-This repository contains task 4 for basic data analysis
